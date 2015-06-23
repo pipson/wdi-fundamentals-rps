@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<body>
+<p id="demo">  </p>
+<script>
+var a = new Date();
+
+a.document.write.value;
+
+</script>
+</body>
+
+</html>
